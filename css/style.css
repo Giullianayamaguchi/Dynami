@@ -1,0 +1,20 @@
+.bg-RoboTechArms{
+    background-color: rgb(214, 253, 224);
+    margin-bottom: 1%;
+    margin-top: 0.8%;
+}
+.bg-MindSaver{
+    background-color: rgb(181, 251, 245);
+    margin-bottom: 1%;
+}
+.bg-CommuniTech{
+    background-color: rgb(214, 253, 224);
+    margin-bottom: 1%;
+}
+.texto{
+    margin: 8%;
+}
+.Logo{
+    align-items: center;
+    margin: 2%;
+}
